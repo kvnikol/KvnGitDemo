@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             KvnGitDemoTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Vladimir",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
